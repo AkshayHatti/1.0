@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-04T14:42:06 IST" name="Default suite" finished-at="2024-01-04T14:42:42 IST" duration-ms="35555">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T14:42:06 IST" name="Default test" finished-at="2024-01-04T14:42:42 IST" duration-ms="35555">
+      <class name="test.Sign_In_Page">
+        <test-method is-config="true" signature="appiumtest()[pri:0, instance:test.Sign_In_Page@242b836]" started-at="2024-01-04T14:42:06 IST" name="appiumtest" finished-at="2024-01-04T14:42:30 IST" duration-ms="24081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumtest -->
+        <test-method signature="sign_in()[pri:0, instance:test.Sign_In_Page@242b836]" started-at="2024-01-04T14:42:30 IST" name="sign_in" finished-at="2024-01-04T14:42:42 IST" duration-ms="11416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in -->
+      </class> <!-- test.Sign_In_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
